@@ -1,0 +1,13 @@
+Persional details
+
+
+Name:J.Jerin liciya
+Date of birth:26\10\2005
+Gender:Female
+
+
+Education
+
+
+University:Bharathidasan University
+Department:BCA
